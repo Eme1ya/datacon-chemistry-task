@@ -1,0 +1,10 @@
+﻿metric,value
+raw_records,226
+final_records,220
+duplicates_merged,6
+conflict_groups,12
+manual_review,5
+suspicious,23
+issue_image_table,15
+issue_manual_review,5
+issue_suspicious,23

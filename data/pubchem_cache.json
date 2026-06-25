@@ -1,0 +1,32 @@
+{
+  "naltrexone": {
+    "structure_resolution": "pubchem_name",
+    "pubchem_cid": "5360515",
+    "smiles_raw": "C1CC1CN2CCC34C5C(=O)CCC3(C2CC6=C4C(=C(C=C6)O)O5)O",
+    "inchikey": "DQCKKXVULJGBQN-XFWGSAIBSA-N"
+  },
+  "CTAP": {
+    "structure_resolution": "pubchem_name",
+    "pubchem_cid": "10418702",
+    "smiles_raw": "CC(C1C(=O)NC(C(SSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCN=C(N)N)CC2=CNC3=CC=CC=C32)CC4=CC=C(C=C4)O)NC(=O)C(CC5=CC=CC=C5)N)(C)C)C(=O)NC(C(C)O)C(=O)N)O",
+    "inchikey": "OFMQLVRLOGHAJI-FGHAYEPSSA-N"
+  },
+  "rimonabant": {
+    "structure_resolution": "pubchem_name",
+    "pubchem_cid": "104850",
+    "smiles_raw": "CC1=C(N(N=C1C(=O)NN2CCCCC2)C3=C(C=C(C=C3)Cl)Cl)C4=CC=C(C=C4)Cl",
+    "inchikey": "JZCPYUJPEARBJL-UHFFFAOYSA-N"
+  },
+  "NAP": {
+    "structure_resolution": "pubchem_error",
+    "pubchem_cid": "",
+    "smiles_raw": "",
+    "inchikey": ""
+  },
+  "NAQ": {
+    "structure_resolution": "pubchem_error",
+    "pubchem_cid": "",
+    "smiles_raw": "",
+    "inchikey": ""
+  }
+}

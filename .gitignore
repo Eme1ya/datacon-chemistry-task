@@ -1,0 +1,9 @@
+# Временные файлы разведки и кэш
+_pptx_extract/
+_temp_pptx.zip
+_*.txt
+__pycache__/
+*.pyc
+.Python
+.venv/
+venv/
